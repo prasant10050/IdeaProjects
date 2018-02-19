@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a44757e-28ae-470b-8276-d36831ad48ed" name="Default" comment="">
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/toStringTemplates.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Dart Test/bin/operatorTest.dart" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Dart Test/bin/secMain.dart" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/com.module.address/com.module.address.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/com.module.address/src/com/address/primary/classess/PrimaryAddress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/com.module.address/src/com/address/secondary/classes/SecondaryAddress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/com.module.address/src/module-info.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/com.module.person/com.module.person.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/com.module.person/src/com/person/personal/classes/PersonInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/com.module.person/src/module-info.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/src/com/module3/main/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com.module3/src/module-info.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/com/lambda/classes/AccetpIntReturnSquare.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/com/lambda/classes/DefaultAndStaticFunction.java" />
@@ -27,11 +40,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultAndStaticFunction.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DefaultAndStaticFunction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lambda/classes/DefaultAndStaticFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="108">
+              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PredicateFunction.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lambda/classes/PredicateFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -66,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/com/lambda/test/AdderMapperTest.java" />
         <option value="$PROJECT_DIR$/src/com/lambda/classes/AccetpIntReturnSquare.java" />
         <option value="$PROJECT_DIR$/src/com/lambda/classes/DefaultAndStaticFunction.java" />
+        <option value="$PROJECT_DIR$/src/com/lambda/classes/PredicateFunction.java" />
       </list>
     </option>
   </component>
@@ -176,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DefaultAndStaticFunction">
+  <component name="RunManager" selected="Application.PredicateFunction">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -230,6 +254,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.lambda.classes.DefaultAndStaticFunction" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="com.prasant.lambdaExpression" />
+      <envs />
+    </configuration>
+    <configuration name="PredicateFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lambda.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.lambda.classes.PredicateFunction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -315,16 +358,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.AdderMapperTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.AccetpIntReturnSquare" />
       <item index="2" class="java.lang.String" itemvalue="Application.DefaultAndStaticFunction" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PredicateFunction" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.DefaultAndStaticFunction" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AccetpIntReturnSquare" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AdderMapperTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.PredicateFunction" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DefaultAndStaticFunction" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AccetpIntReturnSquare" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AdderMapperTest" />
       </list>
     </recent_temporary>
   </component>
@@ -348,18 +393,20 @@
       <updated>1518499343225</updated>
       <workItem from="1518499356429" duration="2889000" />
       <workItem from="1518585769856" duration="2740000" />
-      <workItem from="1518761040563" duration="164000" />
+      <workItem from="1518761040563" duration="4421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5793000" />
+    <option name="totallyTimeSpent" value="10050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-4" width="1317" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.49724627" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -382,7 +429,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.49724627" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -486,8 +532,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lambda/classes/DefaultAndStaticFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state relative-caret-position="108">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambda/classes/PredicateFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding />
         </state>
       </provider>
